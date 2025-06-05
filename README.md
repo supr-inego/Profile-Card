@@ -60,7 +60,7 @@ You can copy the files manually or run this with `create-react-app`.
 * 
 ### 🌐 Live Demo
 
-> Coming soon! (ill Edit later)
+> https://profile-card-qp9k.vercel.app/
 
 ### 📬 Contact
 
